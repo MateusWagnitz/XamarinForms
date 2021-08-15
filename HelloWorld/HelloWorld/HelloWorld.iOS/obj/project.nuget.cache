@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WY3WhnlwWAJfvn/OqZdQ30mS3ZS1UB2cy631uQ1MpTq0FlIE78lqhU2F22xfb4qE3Dg68Zi2JZOU6xgBmAybEQ==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\Programacao\\Udemy\\Xamarin Forms\\Project\\HelloWorld\\HelloWorld\\HelloWorld.iOS\\HelloWorld.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
