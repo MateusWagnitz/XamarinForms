@@ -17,3 +17,5 @@ D:\Estudos\Programacao\Udemy\Xamarin Forms\Project\HelloWorld\HelloWorld\HelloWo
 D:\Estudos\Programacao\Udemy\Xamarin Forms\Project\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
 D:\Estudos\Programacao\Udemy\Xamarin Forms\Project\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\GridPage.xaml.g.cs
 D:\Estudos\Programacao\Udemy\Xamarin Forms\Project\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\AbsolutePage.xaml.g.cs
+D:\Estudos\Programacao\Udemy\Xamarin Forms\Project\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ImagePage.xaml.g.cs
+D:\Estudos\Programacao\Udemy\Xamarin Forms\Project\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs
